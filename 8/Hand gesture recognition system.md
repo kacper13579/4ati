@@ -1,4 +1,4 @@
-# Hand Gesture Setting system
+# Hand Gesture Recogition System
 
 ## _contractor: Jan Jasinski
 ## _principal: Michał Czerwiński_
