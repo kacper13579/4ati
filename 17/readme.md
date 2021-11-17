@@ -1,56 +1,56 @@
-#  System rezerwacji stolików
+# table reservation system
 
-## _wykonawca: Jakub Pilewski_ 
-## _zleceniodawca: Michał Czerwiński_ 
+## _contractor: Jakub Pilewski_
+## _principal: Michał Czerwiński_
 
 
-| wersja dokumentacji | data |
+| dossier version | date |
 | ------ | ------ |
 | 1.0 | 17.11.2021 |
 | 1.1 | 17.11.2021 |
 
-[![ Stan kompilacji ](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-##  Streszczenie
-Projekt dotyczy systemu umożliwiającego rezerwację stolików
+## Abstract 
+The project concerns a system that allows for the booking tables.
 
-##  Struktura danych
+## Data structure
 
-| dane | wpisz |
+| data | type |
 | ------ | ------ |
-| WEJŚCIE | formularz danych |
-| WYJŚCIE | wiadomość o rezerwacji pokoju i wpis do bazy danych |
+| INPUT | data form |
+| OUTPUT | table reservation message and database entry |
 
-##  Główne funkcjonalności
+## Main functionalities
 
-1. relacyjna baza danych oparta na języku SQL
-1. frot-end stworzony w technologiach JavaScript i CSS
-1. back-end wykonywany w języku PHP i skryptach pomocniczych
+1. relational database based on SQL language
+1. frot-end created in JavaScript and CSS technologies
+1. back-end executed in PHP language and auxiliary scripts
 
-Powyższe funkcjonalności są testowane i działają zgodnie ze swoimi rolami.
+The above functionalities are tested and work according to their roles.
 
-> Jako wykonawca projektu zaświadczam, że powyższa funkcjonalność
-> nie zagraża cyberprzestrzeni ani żadnej innej przestrzeni żadnego państwa.
-> Kod zawarty w projekcie nie zawiera złośliwego oprogramowania i jest bezpieczny w użyciu.
-> Jestem osobiście odpowiedzialny za jego funkcjonowanie: Jan Kowalski.
+> As a contractor on the project, I certify that the above functionality 
+> does not compromise cyberspace or any other space of any state. 
+> The code contained in the project, does not contain malware and is safe to use. 
+> I am personally responsible for its operation: Jan Kowalski.
 
-##  Konkretne funkcjonalności
+## Cpecific functionalities
 
-Podsekcja prezentująca szczegółowy opis poszczególnych funkcjonalności, na których bazują główne funkcjonalności.
+A subsection that presents a detailed description of the individual functionalities on which the main functionalities are based.
 
-###  Relacyjna baza danych oparta na języku SQL
+### Relational database based on SQL language
 
-###  Frot-end stworzony w technologiach JavaScript i CSS
+### Frot-end created in JavaScript and CSS technologies
 
-###  Back-end wykonywany w języku PHP i skryptach pomocniczych
+### Back-end executed in PHP language and auxiliary scripts
 
-##  Technologie, języki programowania i inne
+## Technologies, programming languages and others
 
-Dillinger używa kilku projektów open source do poprawnej pracy:
+Dillinger uses a number of open source projects to work properly:
 
 - [PHP]
 - [JS]
 - [CSS/HTML]
 - [SQL]
 - [MySql/MariaDb]
-- [Apacze]
+- [Apache]
