@@ -46,3 +46,6 @@ Dillinger uses a number of open source projects to work properly:
 - [SQL]
 - [MySql/MariaDb]
 - [Apache]
+
+Entity Relationship Diagram
+[link to diagram ERD in jpg][erd]
