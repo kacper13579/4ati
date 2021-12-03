@@ -8,6 +8,7 @@
 | ------ | ------ | ------ |
 | 1.0 | 17.11.2021 | none |
 | 1.1 | 03.12.2021 | adding ERD |
+| 1.2 | 03.12.2021 | adding organizational structure |
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
@@ -31,6 +32,10 @@ The above functionalities are tested and work according to their roles.
 ## Entity Relationship Diagram
 
 [Link to diagram in jpg](https://github.com/kacper13579/4ati/blob/main/7/sprites/Untitled%20Diagram.jpg)
+
+## Organizational structure diagram
+
+[Link to diagram OSD in png](https://github.com/kacper13579/4ati/blob/main/7/sprites/Untitled%20Diagram.drawio(1).png)
 
 ## Specific functionalities
 
