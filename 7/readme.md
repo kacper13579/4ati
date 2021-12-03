@@ -49,4 +49,5 @@ Dillinger uses a number of open source projects to work properly:
 - [Apache]
 
 Entity Relationship Diagram
-[Link to ERD Diagram](https://github.com/kacper13579/4ati/blob/main/7/sprites/Untitled%20Diagram.jpg)
+
+[Link to diagram in jpg](https://github.com/kacper13579/4ati/blob/main/7/sprites/Untitled%20Diagram.jpg)
