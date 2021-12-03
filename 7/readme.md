@@ -27,7 +27,12 @@ The above functionalities are tested and work according to their roles.
 > does not compromise cyberspace or any other space of any state. 
 > The code contained in the project, does not contain malware and is safe to use. 
 > I am personally responsible for its operation: Kacper Grzonkowski.
-## Cpecific functionalities
+ 
+##Entity Relationship Diagram
+
+[Link to diagram in jpg](https://github.com/kacper13579/4ati/blob/main/7/sprites/Untitled%20Diagram.jpg)
+
+## Specific functionalities
 
 A subsection that presents a detailed description of the individual functionalities on which the main functionalities are based.
 
@@ -47,7 +52,3 @@ Dillinger uses a number of open source projects to work properly:
 - [SQL]
 - [MySql/MariaDb]
 - [Apache]
-
-Entity Relationship Diagram
-
-[Link to diagram in jpg](https://github.com/kacper13579/4ati/blob/main/7/sprites/Untitled%20Diagram.jpg)
