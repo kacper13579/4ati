@@ -9,6 +9,8 @@
 | 1.0 | 17.11.2021 | none |
 | 1.1 | 03.12.2021 | adding ERD |
 | 1.2 | 03.12.2021 | adding organizational structure |
+| 1.3 | 05.12.2021 | adding layout form in HTML |
+| 1.4 | 05.12.2021 | 	database with only tables - sketch a database without establishing a relationship |
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
@@ -57,3 +59,9 @@ Dillinger uses a number of open source projects to work properly:
 - [SQL]
 - [MySql/MariaDb]
 - [Apache]
+
+## Layout for form in HTML
+[link to layout](https://github.com/kacper13579/4ati/blob/main/7/sprites/ckziu.png)
+
+## Sketch a database without establishing a relationship
+[link to sketch a database](https://github.com/kacper13579/4ati/blob/main/7/sprites/Untitled%20Diagram.drawio.png)
